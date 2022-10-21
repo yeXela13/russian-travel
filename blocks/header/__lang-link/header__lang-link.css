@@ -1,7 +1,5 @@
-.__lang-link {
+.header__lang-link {
     color: #FFFFFF;
-    text-align: right;
-    list-style-type: none;
     display: flex;
     flex-direction: row;
     margin-top: 46px;
