@@ -1,3 +1,13 @@
 .__lang-link {
-    
+    color: #FFFFFF;
+    text-align: right;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin-top: 46px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
 }
