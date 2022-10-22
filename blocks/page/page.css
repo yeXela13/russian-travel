@@ -1,0 +1,12 @@
+.page {
+background-color: #2A2C2F;
+color: white;
+display: flex;
+flex-direction: column;
+max-width: 1280px;
+min-width: 320px;
+max-height: 100vh;
+font-weight: 400;
+margin: 0 auto;
+padding: 28px 0 24px;
+}
