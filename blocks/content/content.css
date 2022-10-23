@@ -2,3 +2,15 @@
     display: grid;
     row-gap: 92px;
 }
+
+@media screen and (max-width:900px) {
+    .content {
+        grid-row-gap: 88px;
+    }    
+}
+
+@media screen and (max-width:500px) {
+    .content {
+        grid-row-gap: 64px;
+    }    
+}
