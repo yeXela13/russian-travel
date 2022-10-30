@@ -1,4 +1,4 @@
-.place__paragraph_text {
+.place__paragraph_text_style {
     max-width: 484px;
     font-weight: 400;
     font-size: 18px;
@@ -7,19 +7,19 @@
 }
 
 @media screen and (max-width: 1124px) {
-    .place__paragraph_text {
+    .place__paragraph_text_style {
         max-width: 456px;
     }
 }
 
 @media screen and (max-width: 984px) {
-    .place__paragraph_text {
+    .place__paragraph_text_style {
         max-width: 352px;
     }
 }
 
 @media screen and (max-width: 568px) {
-    .place__paragraph_text {
+    .place__paragraph_text_style {
         max-width: 288px;
         margin: 0 auto;
     }
