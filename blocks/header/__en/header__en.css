@@ -1,4 +1,4 @@
-.header__link_lang_en {
+.header__en {
     max-width: 29px;
     max-height: 28px;
     font-weight: 400;
@@ -10,12 +10,12 @@
     text-decoration: none;
 }
 
-.header__link_lang_en:hover {
+.header__en:hover {
     opacity: 0.8;
 }
 
 @media screen and (max-width: 568px) {
-    .header__link_lang_en {
+    .header__en {
         max-width: 22px;
         max-height: 20px;
         font-size: 18px;
