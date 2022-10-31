@@ -1,7 +1,6 @@
 .header {
     font-family: 'Inter', Arial, sans-serif;
     max-width: 100%;
-    min-height: 52px;
     margin: 0 48px;
     display: flex;
     flex-direction: row;
