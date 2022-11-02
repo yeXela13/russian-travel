@@ -1,25 +1,22 @@
 .intro {
     font-family: 'Inter', Arial, sans-serif;
     max-width: 690px;
-    min-height: 429px;
     padding: 0;
-    margin: 0 442px 0 148px;
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-
+    margin-left: 148px;
 }
 
 @media screen and (max-width: 1124px) {
     .intro {
-        margin: 0 286px 0 48px;
+        margin-left: 48px;
     }
 }
 
 @media screen and (max-width: 984px) {
     .intro {
         max-width: 720px;
-        min-height: 429px;
         margin: 0 auto;
     }
 }
@@ -27,6 +24,5 @@
 @media screen and (max-width: 568px) {
     .intro {
         max-width: 288px;
-        min-height: 754px;
     }
 }

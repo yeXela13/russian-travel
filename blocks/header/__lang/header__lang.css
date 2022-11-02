@@ -1,20 +1,20 @@
-.header__en {
+.header__lang {
     max-width: 29px;
     font-weight: 400;
     font-size: 24px;
     line-height: 28px;
     text-align: right;
-    margin-left: 18px;
     color: #FFFFFF;
+    margin-left: 18px;
     text-decoration: none;
 }
 
-.header__en:hover {
+.header__lang:hover {
     opacity: 0.8;
 }
 
 @media screen and (max-width: 568px) {
-    .header__en {
+    .header__lang {
         max-width: 22px;
         font-size: 18px;
         line-height: 20px;

@@ -20,10 +20,3 @@
         margin: 0;
     }
 }
-
-@media screen and (max-width: 568px) {
-    .lead {
-        max-width: calc(100% - 4px);
-        margin: auto;
-    }
-}
