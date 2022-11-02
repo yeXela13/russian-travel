@@ -10,7 +10,6 @@
 @media screen and (max-width: 1124px) {
     .places {
         max-width: calc(100% - 96px);
-
     }
 }
 
@@ -23,8 +22,7 @@
 
 @media screen and (max-width: 568px) {
     .places {
-        max-width: 100%;
-        margin: 0;
+        max-width: calc(100% - 32px);
         grid-row-gap: 50px;
     }
 }

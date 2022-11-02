@@ -13,7 +13,6 @@
 @media screen and (max-width: 1124px) {
     .place__text {
         max-width: 456px;
-
     }
 }
 
@@ -29,6 +28,10 @@
 @media screen and (max-width: 568px) {
     .place__text {
         max-width: 288px;
+        margin: 0 auto 25px;
+    }
+
+    .place__text:last-child {
         margin: 0 auto;
     }
 }
