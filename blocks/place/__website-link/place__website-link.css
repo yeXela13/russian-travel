@@ -1,5 +1,4 @@
 .place__website-link {
-    max-width: 456px;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
@@ -10,17 +9,4 @@
 
 .place__website-link:hover {
     opacity: 0.8;
-}
-
-@media screen and (max-width: 984px) {
-    .place__website-link {
-        max-width: 352px;
-    }
-}
-
-@media screen and (max-width: 568px) {
-    .place__website-link {
-        max-width: 288px;
-
-    }
 }

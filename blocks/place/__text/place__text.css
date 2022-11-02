@@ -13,12 +13,16 @@
 @media screen and (max-width: 1124px) {
     .place__text {
         max-width: 456px;
+
     }
 }
 
 @media screen and (max-width: 984px) {
     .place__text {
         max-width: 352px;
+        font-size: 16px;
+        line-height: 26px;
+        margin: 0 0 25px;
     }
 }
 
