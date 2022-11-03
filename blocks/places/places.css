@@ -2,20 +2,19 @@
     font-family: 'Inter', Arial, sans-serif;
     display: grid;
     grid-row-gap: 80px;
-    max-width: calc(100% - 296px);
+    max-width: 984px;
     margin: 0 auto;
-    padding: 0;
 }
 
 @media screen and (max-width: 1124px) {
     .places {
-        max-width: calc(100% - 96px);
+        max-width: 928px;
     }
 }
 
 @media screen and (max-width: 984px) {
     .places {
-        max-width: calc(100% - 48px);
+        max-width: 720px;
         grid-row-gap: 72px;
     }
 }
