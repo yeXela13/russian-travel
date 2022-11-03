@@ -1,15 +1,14 @@
 .header__link {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    list-style-type: none;
-    padding: 0;
-    margin: 18px 0 6px;
+  display: grid;
+  grid-auto-flow: column;
+  gap: 18px;
+  list-style-type: none;
+  padding: 0;
+  margin: 18px 0 6px;
 }
 
 @media screen and (max-width: 568px) {
-    .header__link {
-      margin: 14px 0 8px;
-    }
+  .header__link {
+    margin: 14px 0 8px;
   }
+}

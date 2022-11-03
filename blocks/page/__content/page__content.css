@@ -3,19 +3,19 @@
     margin-bottom: 92px;
 }
 
-@media screen and(max-width: 1124px) {
+@media screen and (max-width: 1124px) {
     .page__content {
         margin-top: 48px;
     }
 }
 
-@media screen and(max-width: 984px) {
+@media screen and (max-width: 984px) {
     .page__content {
         margin-bottom: 88px;
     }
 }
 
-@media screen and(max-width: 568px) {
+@media screen and (max-width: 568px) {
     .page__content {
         margin-bottom: 64px;
     }

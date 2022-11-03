@@ -34,7 +34,6 @@
 
 @media screen and (max-width: 1124px) {
     .cover__item {
-        padding: 0;
         min-height: 640px;
     }
 }
